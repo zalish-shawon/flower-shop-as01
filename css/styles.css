@@ -131,16 +131,19 @@ body {
     color: white;
     border: none;
 }
-.left-section{
+
+.left-section {
     text-align: center;
-    
+
 }
-.flower{
+
+.flower {
     height: 250px;
     width: 250px;
     padding-top: 20px;
 }
-.hotdeal-flower{
+
+.hotdeal-flower {
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -148,17 +151,41 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-.btn-secondary:hover, .btn-primary:hover{
+
+.btn-secondary:hover,
+.btn-primary:hover {
     background-color: #ADB56B;
     cursor: pointer;
 }
-.offspan{
+
+.offspan {
     color: #E55473;
 }
-.insta-photos-container{
+
+.insta-photos-container {
     padding: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap:20px
+    gap: 20px
+}
+
+.deals-container {
+    background-image: url('../images/Rectangle\ 9.png');
+    text-align: center;
+    margin-top: 65px;
+    padding: 60px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    width: 600px;
+    height: 45px;
+    border-radius: 8px;
+    background: #FFF;
+    margin-right: 8px;
+    font-size: 15px;
+    text-align: center;
 }
