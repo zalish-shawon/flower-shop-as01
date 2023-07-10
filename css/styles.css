@@ -65,3 +65,43 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+.pink-flower1 {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);
+    margin-top: 65px;
+    width: 290px;
+    height: 370px;
+}
+.pink-flower2 {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(5, 151, 160, 0.15);
+    margin-top: 65px;
+    width: 290px;
+    height: 370px;
+}
+.pink-flower3 {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(71, 125, 17, 0.15);
+    margin-top: 65px;
+    width: 290px;
+    height: 370px;
+}
+.pink {
+    width: 250px;
+    height: 320px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+.flower-name{
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+.flower-items {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 28px;
+}
