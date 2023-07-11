@@ -270,6 +270,7 @@ input {
     margin-left: auto;
     margin-top: 15px;
     margin-bottom: 14px;
+    color: gray;
 }
 .articles{
     display: flex;
